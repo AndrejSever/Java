@@ -14,10 +14,6 @@ public class Controller {
 
     @FXML
     TextField textField;
-    @FXML
-    TextField textField2;
-    @FXML
-    Button ok;
 
 int a = 0;
 String b = "";
